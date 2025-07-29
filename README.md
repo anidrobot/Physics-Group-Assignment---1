@@ -11,7 +11,7 @@ Author - Anidro paul, Nisath Tasmin Nisa, Asma Begum, Md.Jahidul Islam Refad.
 **How it works:** Takes inputs for order, slit width, and angle, then calculates wavelength using the formula:  
   λ = (d × sinθ) / m
   <br>
-**Filename:** `problem1.c`
+**Filename:** ` problem1.c `
 <br>
 <br>
 **Problem 2:** [ Type your Problem NAme ]
