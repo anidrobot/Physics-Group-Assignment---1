@@ -4,9 +4,9 @@
 float wavelength_calculator(int m, float d, float theta)
 {
   d = d * 1e-6 ;
-  theta = theta * (3.1416/180);
+  theta_rad = theta * (3.1416/180);
 
-  float lambda_m = (d * sin(theta)/m);
+  float lambda_m = (d * sin(theta_rad)/m);
   float lambda_nm = lambda_m * 1e9;
 
   return lambda_nm;
