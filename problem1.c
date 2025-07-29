@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<math.h>
-
+#define PI 3.1416
 float wavelength_calculator(int m, float d, float theta)
 {
   d = d * 1e-6 ;
-  theta = theta * (3.1416/180);
+  theta = theta * (PI/180);
 
   float lambda_m = (d * sin(theta)/m);
   float lambda_nm = lambda_m * 1e9;
