@@ -8,7 +8,7 @@ Author - Anidro paul, Nisath Tasmin Nisa, Asma Begum, Md.Jahidul Islam Refad.
 <br>
 **Why added:** Required for our Physics(II) assignment on Wave Optics.
 <br>
-**How it works:** Takes inputs for order, slit width, and angle, then calculates wavelength using the formula:  
+**How it works:** Takes inputs for order, slit distance, and angle, then calculates wavelength using the formula:  
   λ = (d × sinθ) / m
   <br>
 **Filename:** ` problem1.c `
@@ -18,6 +18,7 @@ Author - Anidro paul, Nisath Tasmin Nisa, Asma Begum, Md.Jahidul Islam Refad.
   <br>
 **Why added:** Required for our Physics(II) assignment on Wave Optics.
   <br>
-**How it works:** 
+**How it works:** Store the given values of order, wavelength and theta(green light) then calculate slit distance and theta(red light) using the formula:
+  d × sinθ = mλ 
   <br>
 **Filename:** `problem2.c`
