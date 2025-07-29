@@ -14,7 +14,7 @@ Author - Anidro paul, Nisath Tasmin Nisa, Asma Begum, Md.Jahidul Islam Refad.
 **Filename:** ` problem1.c `
 <br>
 <br>
-**Problem 2:** Angle Determination Using Diffraction Gration.
+**Problem 2:** Angle Determination Using Diffraction Grating.
   <br>
 **Why added:** Required for our Physics(II) assignment on Wave Optics.
   <br>
