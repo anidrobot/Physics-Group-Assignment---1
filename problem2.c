@@ -22,7 +22,7 @@ int main()
     {
         double theta2_rad = asin(sin_theta2);
         double theta2_deg = theta2_rad * 180.0 / PI;
-        printf("The angle for second order red light: %.2f degrees\n", theta2_deg);
+        printf("The angle for second order red light: %.2lf degree\n", theta2_deg);
     }
 
     return 0;
