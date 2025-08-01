@@ -33,23 +33,4 @@ int main()
   printf("Wavelength is : %.2f nm \n",result);
 
 
-  if(result>=380 && result <450)
-     color = "Violate";
-   else if (result>=450 && result <485)
-     color = "Blue";
-   else if (result>=485 && result <500)
-     color = "Cyen";
-   else if (result>=500 && result <565)
-     color = "Green";
-   else if (result>=565 && result <590)
-     color = "Yellow";
-   else if (result>=590 && result <625)
-     color = "Orange";
-   else if (result>=625 && result <750)
-    color = "Red";
-   else
-     color = "Invisible Light";
-
-  printf("color :%s\n", color);
-   return 0 ;
-}
+ 
