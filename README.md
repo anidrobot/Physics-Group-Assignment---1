@@ -1,7 +1,14 @@
 # Physics-Group-Assignment---1
 This is a group task given by our Physics Teacher. We are from Section D, Group 7.
 <br>
-Author - Anidro paul, Nisath Tasmin Nisa, Asma Begum, Md.Jahidul Islam Refad. 
+## Group Members
+
+| Name                      | Student ID    |
+|---------------------------|---------------|
+| Anidro paul               | 251-115-152   |
+| Nisath Tasmin Nisa        | 251-115-162   |
+| Md.Jahidul Islam Refad    | 251-115-200   |
+| Asma Begum                | 242-115-217   |
 <br>
 <br>
 **Problem 1:** Wavelength Calculation using Diffraction.
